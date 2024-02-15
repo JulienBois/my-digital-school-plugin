@@ -1,0 +1,17 @@
+{
+    "name": "julien/mydigitalschoolplugin",
+    "type": "composer-plugin",
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "Julien\\Mydigitalschoolplugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JulienBois",
+            "email": "71647803+JulienBois@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
